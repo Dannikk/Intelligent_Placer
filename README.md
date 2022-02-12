@@ -25,7 +25,7 @@
 
 ## Разметка датасета
 
-Размеченный (датасет)[https://github.com/Dannikk/Intelligent_Placer/blob/develop/repr/data.csv] представляет собой три столбца: Image - имя изображения, находящегося в папке "repr", Polygon - индекс полигона в файле ("repr/polygons.repr")[https://github.com/Dannikk/Intelligent_Placer/blob/develop/repr/polygons.json], Label - 0|1 (0 - False, 1 - True).
+Размеченный [датасет](https://github.com/Dannikk/Intelligent_Placer/blob/develop/repr/data.csv) представляет собой три столбца: Image - имя изображения, находящегося в папке "repr", Polygon - индекс полигона в файле ["repr/polygons.repr"](https://github.com/Dannikk/Intelligent_Placer/blob/develop/repr/polygons.json), Label - 0|1 (0 - False, 1 - True).
 
 ## Объекты
 
