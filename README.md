@@ -39,14 +39,16 @@ Bluetooth адаптер:
 
 ![](./images/2_ob.jpg)
 
-Остальные можно посмотреть здесь линк
+Остальные можно посмотреть [здесь](https://github.com/Dannikk/Intelligent_Placer/tree/develop/images).
 
 ## Входные данные
 
 Некоторые изображения, подающиеся на вход:
 
-![](./images/1ex.jpg)
+![](./repr/1ex.jpg)
 
-![](./images/7ex.jpg)
+![](./repr/7ex.jpg)
 
-![](./images/9ex.jpg)
+![](./repr/9ex.jpg)
+
+Остальные [здесь](https://github.com/Dannikk/Intelligent_Placer/tree/develop/repr).
